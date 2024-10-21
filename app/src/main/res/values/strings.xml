@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Крестики-Нолики</string>
+    <string name="button_description">Кнопка для выбора X или O</string>
+    <string name="win_x">Игрок X выиграл!</string>
+    <string name="win_o">Игрок O выиграл!</string>
+    <string name="draw">Ничья!</string>
+</resources>
